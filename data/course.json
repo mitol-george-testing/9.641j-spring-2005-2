@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5495d010-5847-b8a1-2542-edb7a456bbed"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Neural Networks",
+  "course_description": "This course explores the organization of synaptic connectivity as the basis of neural computation and learning. Perceptrons and dynamical theories of recurrent networks including amplifiers, attractors, and hybrid computation are covered. Additional topics include backpropagation and Hebbian learning, as well as models of perception, motor control, memory, and neural development.\n",
+  "department_numbers": [
+    "9",
+    "8"
+  ],
+  "extra_course_numbers": "8.594J",
+  "primary_course_number": "9.641J",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
